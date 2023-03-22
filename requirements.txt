@@ -1,0 +1,7 @@
+jc==1.22.3
+pydantic==1.10.2
+requests==2.28.2
+tenacity==8.2.2
+loguru==0.6.0
+ipaddress==1.0.23
+
